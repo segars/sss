@@ -1,0 +1,129 @@
+#TIT{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 13.5cm;
+}
+
+#SUB1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    margin-left: 0.5cm;
+
+}
+
+#TEXT1{
+    margin-left: 0.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#TEXT2{
+    margin-left: 0.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#SUB2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    margin-left: 0.5cm;
+}
+
+#RECET{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 3cm;
+    margin-left: 24cm;
+}  
+
+
+#VID{
+    margin-left: 17.6cm;
+    width : 600px;
+
+    
+}
+
+
+#TITULO{
+
+    
+    border-radius: 50px;
+    border: solid;
+    margin: 2px;
+}
+
+
+
+
+#TEXT3{
+
+    margin-left: 0.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+
+}
+
+#SUB3{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 3cm;
+    margin-left: 0.5cm;
+    text-align: center;
+}
+
+
+#SUB4{
+
+    margin-left: 0.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    margin: 10px;
+    text-align: center;
+    max-height: -10;
+
+}
+
+
+#TEXT4{
+
+    margin-left: 0.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+#SUB4D{
+    border-radius: 50px;
+    border: solid;
+    margin: 2px;
+    max-width: 300px;
+    max-height: 100px;
+    
+}
+
+
+#SUB2D{
+        border-radius: 50px;
+    border: solid;
+    margin: 2px;
+    max-width: 200px;
+    max-height: -100px;
+
+}
+
+#SUB1D{
+    border-radius: 50px;
+border: solid;
+margin: 2px;
+max-width: 200px;
+max-height: -100px;
+
+}
+
+#SUB4D{
+border-radius: 50px;
+border: solid ;
+margin: 2px;
+max-width: 200px;
+
+
+}
